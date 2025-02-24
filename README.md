@@ -6,6 +6,5 @@
 **WASD移动**  
 **1 2 3切换关卡**  
 **R重新开始本关卡**  
-**到达终点时，按F进入下一关**
-源文件：
-链接: https://pan.baidu.com/s/1w16Ppk1YyeFa0lTvZgK_pQ?pwd=ncd8 提取码: ncd8
+**到达终点时，按F进入下一关**  
+原文件：https://pan.baidu.com/s/1w16Ppk1YyeFa0lTvZgK_pQ?pwd=ncd8 提取码: ncd8
