@@ -8,3 +8,5 @@
 **R重新开始本关卡**  
 **到达终点时，按F进入下一关**  
 原文件：https://pan.baidu.com/s/1w16Ppk1YyeFa0lTvZgK_pQ?pwd=ncd8 提取码: ncd8
+![image](https://github.com/user-attachments/assets/568e969a-5d84-4bdb-bf31-a8416c39c682)
+
